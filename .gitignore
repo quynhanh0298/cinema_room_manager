@@ -1,0 +1,17 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Equality/True captain/out/
+/Topics/Equality/True captain/out/production/classes/
+/Topics/Ranges/Not in range/out/
+/Topics/Ranges/Not in range/out/production/classes/
+/Topics/Standard input/Read and print/out/
+/Topics/Standard input/Read and print/out/production/classes/
+/Topics/Taming exceptions/Handle number format exception/out/
+/Topics/Taming exceptions/Handle number format exception/out/production/classes/
+/Topics/Type conversion/Lie detector/out/
+/Topics/Type conversion/Lie detector/out/production/classes/
+/Topics/While loops/Collatz conjecture/out/
+/Topics/While loops/Collatz conjecture/out/production/classes/

@@ -1,0 +1,28 @@
+content:
+- Standard input
+- Relational operators
+- Type conversion
+- Reading data with a readln
+- Boolean and logical operations
+- Integers in action
+- If expression
+- Repeating blocks
+- While loops
+- Equality
+- Characters
+- Ranges
+- Introduction to MutableList
+- For loop and ranges
+- Work with MutableLists
+- For loop and lists
+- Multi-dimensional list
+- Declaring functions
+- When expression
+- Errors in programs
+- What is an exception
+- Hierarchy of exceptions
+- Taming exceptions
+- The try-catch statement
+- The try-catch-finally statement
+- Floating-point types
+- Jumps and returns
